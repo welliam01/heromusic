@@ -1,5 +1,5 @@
 token=NTM1NDg0MDIyOTk0ODk0ODY4.DyIz7g.r69n6AUEkrXrPJvcPjwWMPLycYo
-owner=525749212198207508
+owner=486141054677155860
 prefix=H
 game=Type Hhelp
 stayinchannel=true
